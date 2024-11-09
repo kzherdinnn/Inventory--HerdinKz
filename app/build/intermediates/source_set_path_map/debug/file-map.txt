@@ -1,0 +1,55 @@
+com.example.inventory.app-ui-tooling-preview-release-0 C:\Users\herdinkz\.gradle\caches\transforms-3\0a286e136254eb0b42d344fae3f7b864\transformed\ui-tooling-preview-release\res
+com.example.inventory.app-core-runtime-2.2.0-1 C:\Users\herdinkz\.gradle\caches\transforms-3\0c1e58a949e2e1e3394c7877a54f3903\transformed\core-runtime-2.2.0\res
+com.example.inventory.app-annotation-experimental-1.3.0-2 C:\Users\herdinkz\.gradle\caches\transforms-3\0e5188bab855706fe8026861669d1f0a\transformed\annotation-experimental-1.3.0\res
+com.example.inventory.app-activity-compose-1.8.1-3 C:\Users\herdinkz\.gradle\caches\transforms-3\1174e14661bf752ea7e4db418d66d50d\transformed\activity-compose-1.8.1\res
+com.example.inventory.app-lifecycle-livedata-core-2.6.2-4 C:\Users\herdinkz\.gradle\caches\transforms-3\145d82fc558a319b487b8ee154dfc5c8\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.inventory.app-lifecycle-viewmodel-2.6.2-5 C:\Users\herdinkz\.gradle\caches\transforms-3\1512f8e2203abb3fee8a9e83c6bfc4a7\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.inventory.app-lifecycle-runtime-2.6.2-6 C:\Users\herdinkz\.gradle\caches\transforms-3\2b4b249f3bb29362cb2d940a1d22b889\transformed\lifecycle-runtime-2.6.2\res
+com.example.inventory.app-lifecycle-viewmodel-compose-2.6.2-7 C:\Users\herdinkz\.gradle\caches\transforms-3\2c4869be6f5a2a7fa018f0f580133a1c\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.inventory.app-foundation-release-8 C:\Users\herdinkz\.gradle\caches\transforms-3\359a9722e6244dd331a9d674d3d09563\transformed\foundation-release\res
+com.example.inventory.app-savedstate-ktx-1.2.1-9 C:\Users\herdinkz\.gradle\caches\transforms-3\417f67bc4f0fc6e94146ccc3d14ad4d0\transformed\savedstate-ktx-1.2.1\res
+com.example.inventory.app-navigation-runtime-2.7.5-10 C:\Users\herdinkz\.gradle\caches\transforms-3\455e71371dc3d063c29afd1d5ea78b29\transformed\navigation-runtime-2.7.5\res
+com.example.inventory.app-lifecycle-process-2.6.2-11 C:\Users\herdinkz\.gradle\caches\transforms-3\4b2dfb363154d02ee51883d8149ead6c\transformed\lifecycle-process-2.6.2\res
+com.example.inventory.app-activity-ktx-1.8.1-12 C:\Users\herdinkz\.gradle\caches\transforms-3\50544eb20c7e3b20c0cb0f811ddfe6d0\transformed\activity-ktx-1.8.1\res
+com.example.inventory.app-core-1.12.0-13 C:\Users\herdinkz\.gradle\caches\transforms-3\596f04df6dcadbbdf5d9412dafb16c5f\transformed\core-1.12.0\res
+com.example.inventory.app-ui-tooling-data-release-14 C:\Users\herdinkz\.gradle\caches\transforms-3\5c236036452f3c6d29dc046e48354a95\transformed\ui-tooling-data-release\res
+com.example.inventory.app-ui-geometry-release-15 C:\Users\herdinkz\.gradle\caches\transforms-3\630536737a2e16c1341a5d2d105ecab5\transformed\ui-geometry-release\res
+com.example.inventory.app-runtime-release-16 C:\Users\herdinkz\.gradle\caches\transforms-3\67d6ea0fe1e1ca419c4296596ac81d4d\transformed\runtime-release\res
+com.example.inventory.app-navigation-compose-2.7.5-17 C:\Users\herdinkz\.gradle\caches\transforms-3\6ce68acf317a4c58f47e06e86b90ee4b\transformed\navigation-compose-2.7.5\res
+com.example.inventory.app-emoji2-1.4.0-18 C:\Users\herdinkz\.gradle\caches\transforms-3\6f5b44ca2c4c3f9335acf87cd4cb3ae8\transformed\emoji2-1.4.0\res
+com.example.inventory.app-room-runtime-2.6.0-19 C:\Users\herdinkz\.gradle\caches\transforms-3\7970c5947a9c1ccaddeea1a3f3677a36\transformed\room-runtime-2.6.0\res
+com.example.inventory.app-navigation-common-ktx-2.7.5-20 C:\Users\herdinkz\.gradle\caches\transforms-3\7dfbba7866f5f8ee477e694034e73e05\transformed\navigation-common-ktx-2.7.5\res
+com.example.inventory.app-foundation-layout-release-21 C:\Users\herdinkz\.gradle\caches\transforms-3\802ccab5c5b7bd741851c8e893afb775\transformed\foundation-layout-release\res
+com.example.inventory.app-navigation-common-2.7.5-22 C:\Users\herdinkz\.gradle\caches\transforms-3\80ab6c00abda1b12798304ec9f945358\transformed\navigation-common-2.7.5\res
+com.example.inventory.app-material-ripple-release-23 C:\Users\herdinkz\.gradle\caches\transforms-3\817c4575dd2ece2e49ff5967c7ce12cf\transformed\material-ripple-release\res
+com.example.inventory.app-sqlite-framework-2.4.0-24 C:\Users\herdinkz\.gradle\caches\transforms-3\8ce240f3edadeb11c32666ba6937dd71\transformed\sqlite-framework-2.4.0\res
+com.example.inventory.app-lifecycle-runtime-ktx-2.6.2-25 C:\Users\herdinkz\.gradle\caches\transforms-3\92d91d4468900cf495a31718c3f95a73\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.inventory.app-material-release-26 C:\Users\herdinkz\.gradle\caches\transforms-3\92fd8707b2ee9fd68feda217286e012f\transformed\material-release\res
+com.example.inventory.app-customview-poolingcontainer-1.0.0-27 C:\Users\herdinkz\.gradle\caches\transforms-3\948fd1dd274e85b3026e017c9d07799c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.inventory.app-sqlite-2.4.0-28 C:\Users\herdinkz\.gradle\caches\transforms-3\9f52684fbb3a40aa2716622a07427d77\transformed\sqlite-2.4.0\res
+com.example.inventory.app-ui-util-release-29 C:\Users\herdinkz\.gradle\caches\transforms-3\9febf0608bf66fa721bd516b9cb8515d\transformed\ui-util-release\res
+com.example.inventory.app-ui-graphics-release-30 C:\Users\herdinkz\.gradle\caches\transforms-3\a6824459b53ef3161f0be298d78d4144\transformed\ui-graphics-release\res
+com.example.inventory.app-material-icons-core-release-31 C:\Users\herdinkz\.gradle\caches\transforms-3\a787c46eaedff010dbb754cdc45e4228\transformed\material-icons-core-release\res
+com.example.inventory.app-animation-core-release-32 C:\Users\herdinkz\.gradle\caches\transforms-3\b07ea6d4fbf2a94caf64742dae131a48\transformed\animation-core-release\res
+com.example.inventory.app-activity-1.8.1-33 C:\Users\herdinkz\.gradle\caches\transforms-3\c1ef793af6e88103448762563150bc8b\transformed\activity-1.8.1\res
+com.example.inventory.app-animation-release-34 C:\Users\herdinkz\.gradle\caches\transforms-3\c7307f4dc776512fd400fd01227b2832\transformed\animation-release\res
+com.example.inventory.app-navigation-runtime-ktx-2.7.5-35 C:\Users\herdinkz\.gradle\caches\transforms-3\ce2031030eeaf046116fa0f9300a4ba4\transformed\navigation-runtime-ktx-2.7.5\res
+com.example.inventory.app-savedstate-1.2.1-36 C:\Users\herdinkz\.gradle\caches\transforms-3\cfce4b5ceb2938f64b3719b78ab8516f\transformed\savedstate-1.2.1\res
+com.example.inventory.app-ui-release-37 C:\Users\herdinkz\.gradle\caches\transforms-3\d5db73851a504e253848f283302c8dff\transformed\ui-release\res
+com.example.inventory.app-room-ktx-2.6.0-38 C:\Users\herdinkz\.gradle\caches\transforms-3\d741a35c953e9d3aa83d65fef7540563\transformed\room-ktx-2.6.0\res
+com.example.inventory.app-runtime-saveable-release-39 C:\Users\herdinkz\.gradle\caches\transforms-3\df37970d651ecda87fc89d24609fcd38\transformed\runtime-saveable-release\res
+com.example.inventory.app-lifecycle-viewmodel-savedstate-2.6.2-40 C:\Users\herdinkz\.gradle\caches\transforms-3\dfb4440c88d93c20871bf698805b98ba\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.inventory.app-core-ktx-1.12.0-41 C:\Users\herdinkz\.gradle\caches\transforms-3\e3250faddfae40dafd2795ed7254dff2\transformed\core-ktx-1.12.0\res
+com.example.inventory.app-startup-runtime-1.1.1-42 C:\Users\herdinkz\.gradle\caches\transforms-3\efeceb3544ab6cc9628a1db681b11a55\transformed\startup-runtime-1.1.1\res
+com.example.inventory.app-profileinstaller-1.3.0-43 C:\Users\herdinkz\.gradle\caches\transforms-3\f39ce5a63fcf2222170da45f4af65405\transformed\profileinstaller-1.3.0\res
+com.example.inventory.app-ui-unit-release-44 C:\Users\herdinkz\.gradle\caches\transforms-3\f4609381f296a01b8fe7d4f439a9fc30\transformed\ui-unit-release\res
+com.example.inventory.app-ui-tooling-release-45 C:\Users\herdinkz\.gradle\caches\transforms-3\fbcb30c1fdbcb0135b93fdceba4ef2c2\transformed\ui-tooling-release\res
+com.example.inventory.app-material3-1.1.2-46 C:\Users\herdinkz\.gradle\caches\transforms-3\fcb0d7a8167f46dd0d9f7bb87c2c62f2\transformed\material3-1.1.2\res
+com.example.inventory.app-ui-text-release-47 C:\Users\herdinkz\.gradle\caches\transforms-3\fd0c400f0623fa38cbe2c2c1a4e94f56\transformed\ui-text-release\res
+com.example.inventory.app-lifecycle-viewmodel-ktx-2.6.2-48 C:\Users\herdinkz\.gradle\caches\transforms-3\feef41db32e1c206134c9989ff01381b\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.inventory.app-resValues-49 F:\Inventory apps\app\build\generated\res\resValues\debug
+com.example.inventory.app-packageDebugResources-50 F:\Inventory apps\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.inventory.app-packageDebugResources-51 F:\Inventory apps\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.inventory.app-merged_res-52 F:\Inventory apps\app\build\intermediates\merged_res\debug
+com.example.inventory.app-debug-53 F:\Inventory apps\app\src\debug\res
+com.example.inventory.app-main-54 F:\Inventory apps\app\src\main\res

@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_extra_large
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string attention
+string back_button
+string delete
+string delete_question
+string edit_item_title
+string in_stock
+string item
+string item_detail_title
+string item_entry_title
+string item_name_req
+string item_price_req
+string no
+string no_item_description
+string price
+string quantity_in_stock
+string quantity_req
+string required_fields
+string save_action
+string sell
+string yes
+style Theme.Inventory
