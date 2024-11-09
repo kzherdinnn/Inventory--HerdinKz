@@ -1,7 +1,9 @@
-![Gambar WhatsApp 2024-11-09 pukul 10 43 38_a6b45898](https://github.com/user-attachments/assets/14365ea5-8a88-4289-86ca-6a839362791b)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 39_4a3c5078](https://github.com/user-attachments/assets/88719a16-edbb-4e96-8bd6-48bc138faecb)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 38_d9a8a816](https://github.com/user-attachments/assets/09322be5-26c4-47d6-b65b-4a83f21b1a27)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 38_cf41f1d4](https://github.com/user-attachments/assets/26d6a485-ea71-4ddc-80c8-178de3f6a9ed)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 39_5557aba8](https://github.com/user-attachments/assets/9cc00ca9-3e54-44e4-8549-0ed4079351e4)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 39_5e858744](https://github.com/user-attachments/assets/bacff574-924d-48d7-a262-241fada1396b)
-![Gambar WhatsApp 2024-11-09 pukul 10 43 39_1d591184](https://github.com/user-attachments/assets/461a8d14-9c80-44f6-bfbd-217d17315352)
+![1 (2)](https://github.com/user-attachments/assets/6b35ad75-a591-4308-8a4e-1c9a1d7b4078)
+![2 (2)](https://github.com/user-attachments/assets/8b9f6033-9110-4c88-9dea-45c09f810a2d)
+![3 (2)](https://github.com/user-attachments/assets/bfaaba1a-0dc6-4ba1-bc88-d816af19d5d9)
+![4 (2)](https://github.com/user-attachments/assets/159cfeb6-a41e-4995-b591-af609e5d3556)
+![5 (2)](https://github.com/user-attachments/assets/219b9872-1849-4a5f-bcdd-c63da695d35e)
+![6](https://github.com/user-attachments/assets/93b5548a-8e07-422c-bbc4-9bcdb154d23f)
+![7](https://github.com/user-attachments/assets/8ce2e3e8-f3d2-43e0-b778-7c3bbdba7f87)
+
+
